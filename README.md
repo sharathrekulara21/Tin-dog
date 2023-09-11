@@ -1,2 +1,1 @@
-# Tin-dog
-A webpage powered by bootstrap
+TinDog Starting Files
